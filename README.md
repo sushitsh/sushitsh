@@ -7,9 +7,9 @@
 
 ### 🍣 About Me :
 
-- 🕵️ I work as cybersecurity
+- 🕵️ I work in cybersecurity
 
-- 👨‍💻 How to reach me discord **sushi.#1534**
+- 👨‍💻 contact me on discord **sushi.#1534**
 
 - 🚀 I’m currently learning **symfony**
 
